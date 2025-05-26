@@ -28,10 +28,10 @@ Run flappy_bird.py and watch an AI start training itself to play the game of Fla
 
 1. Cloná el repositorio
 2. Instalá las dependencias:
-  * pip install pygame neat-python
+   - pip install pygame neat-python
 
 3. Ejecutá el juego:
-   * python flappy_bird.py
+   - python flappy_bird.py
 
 ## 📄 Créditos
 
