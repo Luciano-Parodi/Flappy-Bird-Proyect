@@ -21,7 +21,7 @@ Este proyecto me permitió comprender mejor:
 * Cómo estructurar y entrenar una red neuronal sin datos preetiquetados.
 * Integración de IA con videojuegos en tiempo real usando Pygame.
 
-## ▶️ ICómo ejecutarlo
+## ▶️ Cómo ejecutarlo
 Ejecute el archivo flappy_bird.py y observe cómo una IA comienza a entrenarse para jugar el juego de Flappy Bird.
 
 1. Cloná el repositorio
